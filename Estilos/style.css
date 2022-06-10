@@ -138,6 +138,7 @@ main h2{
 }
 main img{
     display: block;
+    margin: auto;
 }
 main strong{
     color: var(--cor5);
