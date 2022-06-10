@@ -14,9 +14,8 @@
     padding: 0px;
 
 }
-body{
+body{background-image: url(/istockphoto-1207017851-612x612.jpg);
     background-color: black;
-    background-image: url(/istockphoto-1207017851-612x612.jpg);
     background-position: 100%;
     background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
