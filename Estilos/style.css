@@ -103,12 +103,13 @@ nav ul li:hover .menu-1 ul li:hover{
     margin: 10px;
 }
 .hover-menu:hover .menu-2{
-    display: block ;
+    display: block;
     border-radius: 15px;
     position: absolute;
-    width: 220px;
+    width: 175px;
     margin-top: -40px;
-    margin-left: 150px;
+    margin-left: 148px;
+    
     background-color:#323232 ;
 }
 
@@ -150,8 +151,7 @@ main p{
     text-align: justify;
 }
 main a{
-    text-decoration: none;
-    background-color: var(--cor1);
+    text-decoration: underline;
     font-weight: bold;
     color: #344552;
     padding: 2px;
