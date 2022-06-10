@@ -15,7 +15,7 @@
 
 }
 body{
-    background-image: url(/istockphoto-1207017851-612x612.jpg);
+    background-image: url(../istockphoto-1207017851-612x612.jpg);
     background-color: black;
     background-position: 100%;
     background-attachment: fixed;
@@ -25,7 +25,7 @@ body{
     
 }
 header{
-    background-image: url(/controles-wallpaper.jpg);
+    background-image: url(../controles-wallpaper.jpg);
     text-align: center;
     padding: 10px;
     margin: auto;
